@@ -13,13 +13,13 @@ A modern Android application demonstrating **Hilt Dependency Injection** best pr
 
 ## Screenshots
 
-| Catalog List | Catalog Detail |
+| Catalog | Products |
 | :---: | :---: |
-| ![Catalog](screenshots/catalog.png) | ![Catalog Detail](screenshots/catalog_detail.png) |
+| ![Catalog](screenshots/catalog.png) | ![Products](screenshots/products.png) |
 
-| Products | Interview Hub |
+| Interview Hub | Interview Detail |
 | :---: | :---: |
-| ![Products](screenshots/products.png) | ![Interview](screenshots/interview.png) |
+| ![Interview](screenshots/interview.png) | ![Interview Detail](screenshots/interview_detail.png) |
 
 ## Tech Stack
 
